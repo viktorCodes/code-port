@@ -1,10 +1,11 @@
-htm{
-    font-size: 16px;
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Proza+Libre:wght@700&display=swap");
 
+html {
+  scroll-behavior: smooth;
 }
 
-.header{
-   
-    
-    
+html,
+body {
+  height: 100%;
+  color: var(--font-color);
 }
